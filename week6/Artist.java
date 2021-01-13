@@ -1,5 +1,5 @@
 package week6;
-
+//thictikorne vin 632115015
 public class Artist extends Person{
     String genre;
     public Artist(String name,int age,String gender){

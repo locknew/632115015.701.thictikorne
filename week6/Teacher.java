@@ -1,5 +1,5 @@
 package week6;
-
+//thictikorne vin 632115015
 public class Teacher extends Person{
     String subject;
     public Teacher(String name,int age,String gender){
@@ -7,7 +7,7 @@ public class Teacher extends Person{
         this.name = name;
         this.gender = gender;
     }
-    public void sell(){
+    public void teaching(){
         System.out.println(name + " is teaching " + subject );
     }
     

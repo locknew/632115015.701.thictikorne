@@ -1,5 +1,5 @@
 package week6;
-
+//thictikorne vin 632115015
 public class Engineer extends Person{
     String genre;
     public Engineer(String name,int age,String gender){

@@ -1,5 +1,5 @@
 package week6;
-
+//thictikorne vin 632115015
 public class Pilot extends Person {
     String place;
     public Pilot(String name,int age,String gender){
@@ -7,7 +7,7 @@ public class Pilot extends Person {
         this.name = name;
         this.gender = gender;
     }
-    public void sell(){
+    public void fly(){
         System.out.println(name + " is going to " + place );
     }
     

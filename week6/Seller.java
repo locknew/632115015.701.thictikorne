@@ -1,5 +1,5 @@
 package week6;
-
+//thictikorne vin 632115015
 public class Seller extends Person{
     String Sell;
     public Seller(String name,int age,String gender){

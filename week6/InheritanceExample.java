@@ -1,5 +1,5 @@
 package week6;
-
+//thictikorne vin 632115015
 public class InheritanceExample {
 
     public static void main(String[]args){
