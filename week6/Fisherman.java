@@ -7,7 +7,7 @@ public class Fisherman extends Person{
         this.name = name;
         this.gender = gender;
     }
-    public void goto(){
+    public void got(){
         System.out.println(name + " is fishing at " + place );
     }
     
