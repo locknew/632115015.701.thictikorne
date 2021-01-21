@@ -16,5 +16,12 @@ public class Bicycle {
 
     System.out.println("Current speed is " + this.speed);
    }
+
+
+
+   public void stop(){
+       this.speed = 0;
+
+   }
     
 }
