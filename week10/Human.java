@@ -22,6 +22,6 @@ public class Human {
 
         dog = new Fish();
         System.out.println("The third calling  hit(Animal)");
-        human.hit(dog); 
+        human.hit(dog);
     }
 }
