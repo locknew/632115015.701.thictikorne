@@ -13,6 +13,9 @@ public class shape {
     public shape(int length){
         this.length = length;
     }
+    public shape(){
+       
+    }
 
 	public String toString(){
 
